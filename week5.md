@@ -1,13 +1,14 @@
 Week 5 Ship - USMC/18F Cloud PA - Jun 21, 2019
 ==============================================
 
-Week 5 Ship: June 21, 2019
+
 Hi everyone,
+
 This week marks the end to our initial round of research as well as the mid-point of this project. The project was originally scheduled for 8 weeks and will actually be spread across 10 calendar weeks given OOO. Today, we presented a subset of our findings so far. Next week, we’ll be sharing an expanded set for your feedback. We’ll also be charting out a course for the remainder of this project given what we learned in today’s Mid-project Review as well as discussion with C4 leadership. Read on for more details...
 
 What we’re reading:
 
-"Are there members of a community who, against all odds, have figured out a way to solve a problem, with no additional resources, much better than their peers?" The Positive Deviance Approach, explained by Dr. Arvind Singhal here.
+"Are there members of a community who, against all odds, have figured out a way to solve a problem, with no additional resources, much better than their peers?" The Positive Deviance Approach, as [explained by Dr. Arvind Singhal](https://www.youtube.com/watch?v=n-NAvN-PLW0).
 
 This week we:
 * Conducted more interviews as part of our research plan
